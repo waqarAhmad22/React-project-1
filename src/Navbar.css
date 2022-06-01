@@ -1,0 +1,19 @@
+.Nav
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.style1
+{
+    background-color: transparent;
+    color: white;
+    padding:20px;
+    font-size: 15px;
+}
+.style2
+{
+    padding:15px 20px;
+    border-radius: 20px; 
+}
